@@ -4,7 +4,7 @@ Hardware and OS requirements:
 - a 64-bit operating system  is recommended
 - x64-based processor is also recommended
 - Windows 10 is recommended
-- [python](https://python.org) 3.7.7+ is required but 3.8 is recommended, [pygame](https://pypi.org/project/pygame/) is also required
+- [python](https://python.org) [3.7.7](https://www.python.org/downloads/release/python-377/)+ is required but [3.8.6](https://www.python.org/downloads/release/python-386/) is recommended, [pygame](https://pypi.org/project/pygame/) is also required
 --------------------------
 
 User Guide: 
